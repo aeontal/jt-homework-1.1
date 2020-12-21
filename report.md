@@ -33,7 +33,7 @@
 * Ключ c2bc778a-1cb9-46c6-b435-0489649d2a42 - Ожидаемый результат: FAIL Полученный результат: FAIL
 * Ключ 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1 - Ожидаемый результат: FAIL Полученный результат: ОК
 
-[Results](/assets/images/jt1.1 homework.PNG) 
+![Results](/assets/images/jt1.1 homework.PNG) 
 
 Тестирование производилось в следующем окружении:
 * WINDOWS 10 64
