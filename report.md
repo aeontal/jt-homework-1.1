@@ -25,8 +25,8 @@
 * [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 
-
-
 Тестирование производилось в следующем окружении:
-* WINDOWS 10 64
-* openjdk version "11.0.9.1" 2020-11-04
+
+* Windows Professional x64
+* Openjdk version "11.0.9.1+1"
+* GitHub Desktop version "2.6.1"
